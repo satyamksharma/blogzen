@@ -2,6 +2,8 @@
 .sec3{
     /* border: 2px solid red; */
     height: 62vw;
+    display: flex;
+    justify-content: center;
 }
 .s3boxes{
     /* border: 1px solid black; */
@@ -39,6 +41,7 @@
     display: flex;
     flex-wrap: wrap;
     width: 100%;
+    justify-content: center;
 }
 
 .flex a{
